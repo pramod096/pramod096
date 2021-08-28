@@ -6,7 +6,7 @@
 <h4 align="center">I am a Computer Science Graduate Student at Northwest Missouri State University. Also, currently working as Software Developer at the University. Developing Web and Mobile Applications excites me the most and also love to work on good User Interfaces. I would like to work in a company that gives me the ability to impact the lives of people in a better way, using my programming skills. </h4>
 <br>
 
-## 🛠️ My Skills
+## :computer: My Skills
 
 ### 👉 Programming languages
 
@@ -97,3 +97,11 @@
 </p>
 
 <br/>
+
+## :boy: Let's Connect
+<p align="center">
+	<a href="mailto:pramodreddy096@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+  <a href="https://linkedin.com/in/pramod-reddy-gonegari"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+</p>
+
+<hr/>
